@@ -1,0 +1,4 @@
+#Loading Data into memory
+
+$Devices = Get-CMdevices
+$Users = Get-CMUserCollections
