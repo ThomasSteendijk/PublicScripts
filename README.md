@@ -1,0 +1,2 @@
+# PublicScripts
+Public scripts storage
