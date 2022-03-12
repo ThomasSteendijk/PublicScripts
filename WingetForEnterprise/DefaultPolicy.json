@@ -1,0 +1,32 @@
+{
+    "BlackList":  [
+                      {
+                          "id":  "VideoLAN.VLC",
+                          "name":  "VLC"
+                      }
+                  ],
+    "Required":  [
+                     {
+                         "id":  "Obsidian.Obsidian",
+                         "name":  "Obsidian",
+			       "scope": "User"
+                     },
+                     {
+                         "id":  "Microsoft.VisualStudioCode",
+                         "name":  "Microsoft Visual Studio Code",
+			       "scope": "User"
+                     },
+                     {
+                         "id":  "Notepad++.Notepad++",
+                         "name":  "Notepad++"
+                     },
+                     {
+                         "id":  "Google.Chrome",
+                         "name":  "Google Chrome"
+                     },
+                     {
+                    "id": "Adobe.Acrobat.Reader.64-bit",
+                    "Name": "Adobe Acrobat Reader"	
+                     }
+                 ]
+}
