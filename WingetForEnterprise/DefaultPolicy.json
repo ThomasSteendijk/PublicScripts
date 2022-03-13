@@ -16,6 +16,11 @@
                          "name":  "Microsoft Visual Studio Code",
 			       "scope": "User"
                      },
+	             {
+                         "id":  "Microsoft.Teams",
+                         "name":  "Microsoft Teams",
+			       "scope": "User"
+                     },
                      {
                          "id":  "Notepad++.Notepad++",
                          "name":  "Notepad++"
