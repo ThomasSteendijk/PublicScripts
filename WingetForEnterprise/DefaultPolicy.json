@@ -25,6 +25,10 @@
                          "id":  "Notepad++.Notepad++",
                          "name":  "Notepad++"
                      },
+	             {
+                         "id":  "JGraph.Draw",
+                         "name":  "Draw.IO"
+                     },
                      {
                          "id":  "Google.Chrome",
                          "name":  "Google Chrome",
