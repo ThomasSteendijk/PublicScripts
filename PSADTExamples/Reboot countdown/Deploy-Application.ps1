@@ -141,7 +141,7 @@ Try {
 		## <Perform Post-Installation tasks here>
 
 
-		Show-InstallationRestartPrompt -CountdownNoHideSeconds 3600
+		Show-InstallationRestartPrompt -CountdownSeconds 3600 -CountdownNoHideSeconds 3600
 	}
 	ElseIf ($deploymentType -ieq 'Uninstall')
 	{
