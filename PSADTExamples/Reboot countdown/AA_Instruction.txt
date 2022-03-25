@@ -1,0 +1,10 @@
+install command: 
+ServiceUI_64.exe -process:explorer.exe Deploy-Application.exe -AllowRebootPassThru
+
+Uninstall command: 
+ServiceUI_64.exe -process:explorer.exe Deploy-Application.exe Uninstall -AllowRebootPassThru
+
+Run this as a system installation, it will show everything to loggedin user (so make sure the rest of the installation is silent) and shows a countdown to the user
+
+Bonus: 
+Replace PSADTExamples/AppDeployToolkit/AppDeployToolkitBanner.png with branding of your company for a better user experiance
