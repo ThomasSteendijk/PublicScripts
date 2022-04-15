@@ -33,11 +33,6 @@
                          "id":  "Google.Chrome",
                          "name":  "Google Chrome",
 			 "NoDesktopIcons" : "true"
-                     },
-                     {
-                    "id": "Adobe.Acrobat.Reader.64-bit",
-                    "Name": "Adobe Acrobat Reader",
-			"NoDesktopIcons" : "true"	
                      }
                  ]
 }
