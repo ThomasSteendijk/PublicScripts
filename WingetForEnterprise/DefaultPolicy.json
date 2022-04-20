@@ -1,38 +1,44 @@
 {
-    "BlackList":  [
-                      {
-                          "id":  "VideoLAN.VLC",
-                          "name":  "VLC"
-                      }
-                  ],
-    "Required":  [
-                     {
-                         "id":  "Obsidian.Obsidian",
-                         "name":  "Obsidian",
-			       "scope": "User"
-                     },
-                     {
-                         "id":  "Microsoft.VisualStudioCode",
-                         "name":  "Microsoft Visual Studio Code",
-			       "scope": "User"
-                     },
-	             {
-                         "id":  "Microsoft.Teams",
-                         "name":  "Microsoft Teams",
-			       "scope": "User"
-                     },
-                     {
-                         "id":  "Notepad++.Notepad++",
-                         "name":  "Notepad++"
-                     },
-	             {
-                         "id":  "JGraph.Draw",
-                         "name":  "Draw.IO"
-                     },
-                     {
-                         "id":  "Google.Chrome",
-                         "name":  "Google Chrome",
-			 "NoDesktopIcons" : "true"
-                     }
-                 ]
+"Settings": {
+    "HeroImage": "https://i.imgur.com/5AERTdF.png"
+    }
+
+"default": {
+        "BlackList":  [
+                          {
+                              "id":  "VideoLAN.VLC",
+                              "name":  "VLC"
+                          }
+                      ],
+        "Required":  [
+                         {
+                             "id":  "Obsidian.Obsidian",
+                             "name":  "Obsidian",
+			           "scope": "User"
+                         },
+                         {
+                             "id":  "Microsoft.VisualStudioCode",
+                             "name":  "Microsoft Visual Studio Code",
+			           "scope": "User"
+                         },
+	                 {
+                             "id":  "Microsoft.Teams",
+                             "name":  "Microsoft Teams",
+			           "scope": "User"
+                         },
+                         {
+                             "id":  "Notepad++.Notepad++",
+                             "name":  "Notepad++"
+                         },
+	                 {
+                             "id":  "JGraph.Draw",
+                             "name":  "Draw.IO"
+                         },
+                         {
+                             "id":  "Google.Chrome",
+                             "name":  "Google Chrome",
+			     "NoDesktopIcons" : "true"
+                         }
+                     ]
+        }
 }
