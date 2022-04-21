@@ -40,5 +40,13 @@
 			     "NoDesktopIcons" : "true"
                          }
                      ]
-        }
+        },
+"Ring1": {
+	        "Required":  [
+                         {
+                             "id":  "VideoLAN.VLC",
+                             "name":  "VLC",
+                         }
+			]
+}
 }
