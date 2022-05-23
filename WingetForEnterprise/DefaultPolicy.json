@@ -43,5 +43,11 @@
     			"id": "VideoLAN.VLC",
     			"name": "VLC"
     		}]
+    	},
+    	"HeijmansDemo": {
+    		"BlackList": [{
+    			"id": "VideoLAN.VLC",
+    			"name": "VLC"
+    		}]
     	}
     }
