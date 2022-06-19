@@ -3,7 +3,7 @@
     		"HeroImage": "https://i.imgur.com/5AERTdF.png",
             "ReportingServer": "https://wingetforenterprisetestapp.azurewebsites.net",
             "MonitoringMode": "True",
-            "MonitoringModeReportingURL" : ""
+            "MonitoringModeReportingURL" : "https://wingetforenterprisetestapp.azurewebsites.net/api/Reporting?"
     	},
     	"default": {
     		"BlackList": [{
