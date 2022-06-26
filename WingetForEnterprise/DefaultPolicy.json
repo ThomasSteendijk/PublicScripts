@@ -44,12 +44,17 @@
             "Settings": {
                 "HeroImage": "https://i.imgur.com/5AERTdF.png",
                 "MonitoringMode": "False",
-                "InstallRequiredApps": "False"
+                "InstallRequiredApps": "False",
+                "OnlyUpdateWhitelistedApps" : "True"
     	},
     		"Required": [{
     			"id": "VideoLAN.VLC",
     			"name": "VLC"
-    		}]
+    		}],
+            "WhiteList": [
+                {"id": "Obsidian.Obsidian"},
+                {"id": "VideoLAN.VLC"}
+            ]
     	},
     	"HeijmansDemo": {
     		"BlackList": [{
