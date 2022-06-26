@@ -54,8 +54,8 @@
             "WhiteList": [
                 {"id": "Obsidian.Obsidian"},
                 {"id": "7zip.7zip"},
-                {"id": "VideoLAN.VLC"}
-                
+                {"id": "TimKosse.FileZilla.Client"},
+                {"id": "VideoLAN.VLC"}                
             ]
     	},
     	"HeijmansDemo": {
