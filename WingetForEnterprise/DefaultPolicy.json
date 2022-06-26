@@ -41,6 +41,11 @@
     		]
     	},
     	"Ring1": {
+            "Settings": {
+                "HeroImage": "https://i.imgur.com/5AERTdF.png",
+                "MonitoringMode": "True",
+                "InstallRequiredApps": "False"
+    	},
     		"Required": [{
     			"id": "VideoLAN.VLC",
     			"name": "VLC"
