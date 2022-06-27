@@ -1,7 +1,7 @@
     {
     	"Settings": {
     		"HeroImage": "https://i.imgur.com/5AERTdF.png",
-            "ReportingServer": "https://wingetforenterprisetestapp.azurewebsites.net",
+            "ReportingServer": "https://wingetforenterprisetestapp.azurewebsites.net/api/HttpTrigger1?",
             "MonitoringMode": "True",
             "MonitoringModeReportingURL" : "https://wingetforenterprisetestapp.azurewebsites.net/api/Reporting?"
     	},
