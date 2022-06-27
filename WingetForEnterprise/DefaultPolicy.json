@@ -43,7 +43,7 @@
     	"Ring1": {
             "Settings": {
                 "HeroImage": "https://i.imgur.com/5AERTdF.png",
-                "MonitoringMode": "False",
+                "MonitoringMode": "True",
                 "InstallRequiredApps": "False",
                 "OnlyUpdateWhitelistedApps" : "True"
     	},
